@@ -8,3 +8,6 @@ git push -f origin main
 
 
 git pull origin main --allow-unrelated-histories
+
+
+docker run --gpus all -it foldername
